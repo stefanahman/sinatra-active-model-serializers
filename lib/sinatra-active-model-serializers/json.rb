@@ -7,7 +7,7 @@ module Sinatra
       super
     end
 
-    def json(resource, options = {})
+    def json_serializer(resource, options = {})
       @_options = settings.active_model_serializers.merge(options)
 
       if serializer = get_serializer(resource)
