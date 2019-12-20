@@ -1,4 +1,14 @@
-## [In git](https://github.com/SauloSilva/sinatra-active-model-serializers/compare/v0.0.2...HEAD)
+## [In git](https://github.com/stefanahman/sinatra-active-model-serializers/compare/v0.0.3...HEAD)
+
+## [v1.0.0](https://github.com/stefanahman/sinatra-active-model-serializers/tree/v1.0.0)
+
+### Major:
+
+* Rename `json` to `json_serializer` to avoid naming conflict.
+* Remove upper boundry for gem `sinatra`
+* Remove upper boundry for gem `sinatra`
+* Remove upper boundry for gem `activemodel`
+* Remove upper boundry for gem `active_model_serializers`
 
 ## [v0.3.0](https://github.com/SauloSilva/sinatra-active-model-serializers/tree/v0.3.0)
 

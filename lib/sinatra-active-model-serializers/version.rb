@@ -1,6 +1,3 @@
 module SinatraActiveModelSerializers
-  PATCH = 0
-  MINOR = 3
-  MAJOR = 0
-  VERSION = "#{ MAJOR }.#{ MINOR }.#{ PATCH }".freeze
+  VERSION = "1.0.0".freeze
 end
