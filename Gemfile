@@ -1,10 +1,6 @@
 source 'http://rubygems.org'
-gemspec
 
-group :development do
-  gem 'rake', '10.4.2'
-  gem 'rubygems-tasks', '0.2.4'
-end
+gemspec
 
 group :test do
   gem 'rspec', '3.1.0'
